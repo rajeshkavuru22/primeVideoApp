@@ -1,0 +1,23 @@
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #ffffff;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
+.icon {
+  border: none;
+}
+.react-video {
+  margin-top: 10px;
+}
